@@ -1,3 +1,3 @@
 <Script>
-    Console.log("feature1")
+    Console.log("feature2")
 </Script>
