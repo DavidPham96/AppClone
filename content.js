@@ -1,3 +1,4 @@
 <javascript>
-    Console.log("feature200");
+    Console.log("feature100");
+    tinh nang moi
 </javascript>
